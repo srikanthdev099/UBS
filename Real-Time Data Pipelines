@@ -1,0 +1,62 @@
+Here is the information you requested:
+
+Tools, Technologies, and Architectures for Real-Time Data Pipelines
+Tools:
+
+Apache Kafka: Distributed messaging and streaming platform.
+Apache Flink: Stream processing framework for stateful computations.
+Google Dataflow: Fully managed stream and batch data processing service.
+AWS Kinesis: Real-time data streaming service.
+Apache Spark (Structured Streaming): Unified engine for batch and real-time data processing.
+ElasticSearch: For real-time search and analytics.
+PostgreSQL: As a database for storing processed data.
+MinIO: High-performance, S3-compatible object storage.
+Superset: For data visualization.
+Architectures:
+
+Lambda Architecture: Combines batch and real-time processing.
+Kappa Architecture: Designed for stream processing only.
+Event-Driven Architecture: Systems react to events in real-time using event logs or message queues.
+Lakehouse Architecture: Combines data lakes and warehousing (e.g., using Iceberg, Delta Lake).
+
+data:
+- url: "https://github.com/okv627/knightshift"
+  description: "KnightShift is a chess data pipeline that ingests real-time Lichess TV games, parses PGN data, and stores structured game records in a PostgreSQL database."
+  language: Python
+  stars: 0
+- url: "https://github.com/SonicEXEDVP/real-time-data-pipeline"
+  description: "Real-time data pipeline with Kafka, Flink, Iceberg, Trino, MinIO, and Superset. Ideal for learning data systems."
+  language: None
+  stars: 1
+- url: "https://github.com/Anwaribra/Real-time-Forex-Data-Pipeline"
+  description: "A pipeline for real-time Forex data processing. Uses Python and is MIT licensed."
+  language: Python
+  stars: 2
+- url: "https://github.com/vidisha999/Build-Real-Time-Data-Pipeline-using-AWS-Kinesis-and-Snowflake"
+  description: "Real-time analysis of market data using AWS Kinesis. Includes API integration and Snowflake."
+  language: Jupyter Notebook
+  stars: 0
+- url: "https://github.com/filipdbr/youtube-sentiment-analysis"
+  description: "Sentiment analysis of YouTube comments to evaluate clickbait titles' influence on viewer sentiment via real-time API."
+  language: Jupyter Notebook
+  stars: 0
+- url: "https://github.com/Fakay07/FRAUDULENT-TRANSACTION-DETECTION"
+  description: "End-to-end ML pipeline for fraud detection using XGBoost, SMOTE, and SHAP."
+  language: Jupyter Notebook
+  stars: 0
+- url: "https://github.com/DonorNearBy/YOLO12-UnderWater"
+  description: "End-to-end pipeline for underwater object detection with real-time inference via Gradio."
+  language: Python
+  stars: 0
+- url: "https://github.com/uddithmachiraju/customer-feedback-analysis-pipeline"
+  description: "Machine learning pipeline for analyzing customer feedback, offering real-time predictions."
+  language: Jupyter Notebook
+  stars: 0
+- url: "https://github.com/Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface"
+  description: "Data pipeline combining Retrieval-Augmented Generation (RAG), LLM, and Streamlit for financial analysis."
+  language: Python
+  stars: 0
+- url: "https://github.com/nahlarmash/Servers-Metrics-Logs-Monitoring-System"
+  description: "Processes real-time server metrics and logs using Kafka and Spark, with PostgreSQL and HDFS storage."
+  language: Java
+  stars: 0
