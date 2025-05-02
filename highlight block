@@ -1,0 +1,10 @@
+## 👨‍💻 Senior Data Engineer @ UBS
+
+🔹 Designing and optimizing enterprise-grade data pipelines for financial analytics  
+🔹 Building scalable ETL/ELT workflows using PySpark, Databricks, and Airflow  
+🔹 Working with streaming data from market sources (Kafka, AWS Kinesis)  
+🔹 Implementing robust data quality and governance frameworks  
+🔹 Collaborating with risk & compliance teams to deliver real-time insights
+
+### 🛠️ Tech Stack
+`Python` `Spark` `SQL` `Airflow` `Databricks` `AWS` `Delta Lake` `Kafka` `Terraform`
