@@ -1,0 +1,15 @@
+# UBS Data Pipeline
+
+This is a simplified version of a real-world data pipeline used for financial data ingestion and analysis at scale.
+
+📌 Technologies:
+- PySpark & Spark SQL
+- Apache Airflow
+- AWS S3 / Glue
+- Databricks (DBFS + Delta Lake)
+
+📊 Features:
+- Data ingestion from simulated trade feeds
+- ETL with Spark jobs
+- Workflow orchestration using Airflow DAGs
+- Data quality checks
